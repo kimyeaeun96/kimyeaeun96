@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=F9E3BE&text=Welcome&height=200&section=header&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=egg&color=F9E3BE&height=200&section=header&fontSize=40)
 
 <div align="center">
-  <h3> :mango: yeaeun :mango: </h3>
-  <p> Hi I'm Yea-eun and I love tropical fruits </p>
-  
+  <h3> :egg: yeaeun :egg: </h3>
+  <p> Hi I'm Yea-eun, a junior backend programmer </p>
+
 #
+  
 ### :computer: Tech Stacks :computer:
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
@@ -15,8 +16,9 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white">
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
 </p>
-  
+
 #
+
 ### ⚒️ Tools ⚒️
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white">
