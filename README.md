@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=F9E3BE&height=200&section=header&fontSize=40)
-
 <div align="center">
   <h3> :egg: yeaeun :egg: </h3>
   <p> Hi I'm Yea-eun, a junior backend programmer </p>
