@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3> :egg: yeaeun :egg: </h3>
-  <p> Hi I'm Yea-eun, a junior backend programmer </p>
+  <p> Hi I'm Yea-eun. Thank you for visiting my github! </p>
 
 #
   
